@@ -12,3 +12,5 @@ TIE manages multiple devices and systems intelligently, so that security informa
 ## Resources
 - [TIE Product Guide 3.0.x](/PDF/Threat%20Intelligence%20Exchange/mcafee_threat_intelligence_exchange_3.0.x_product_guide_9-24-2022.pdf)
 - [TIE Installation Guide 3.0.x](/PDF/Threat%20Intelligence%20Exchange/mcafee_threat_intelligence_exchange_3.0.x_installation_guide_9-24-2022.pdf)
+
+[Back to Homepage](/README.md)
