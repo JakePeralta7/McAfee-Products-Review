@@ -1,4 +1,4 @@
-# Advanced Threat Defense
+# Intelligent Sandbox
 
 > Uncover Hidden Threats
 
@@ -11,3 +11,9 @@ Immediately share threat intelligence across your entire infrastructure—includ
 > Enable Investigation
 
 Validate threats and access critical indicators of compromise (IoCs) needed for investigation and threat hunting.
+
+## Product Overview
+
+## Resources
+- [Intelligent Sandbox Product Guide](/PDF/Intelligent%20Sandbox/trellix_intelligent_sandbox_5.0.x_product_guide_9-24-2022.pdf)
+- [Intelligent Sandbox Installation Guide](/PDF/Intelligent%20Sandbox/trellix_intelligent_sandbox_5.0.x_installation_guide_9-24-2022.pdf)
