@@ -14,6 +14,8 @@
 
 ## Product Overview
 
+## Usage
+
 ## Resources
 - [Intelligent Sandbox Product Guide](/PDF/Intelligent%20Sandbox/trellix_intelligent_sandbox_5.0.x_product_guide_9-24-2022.pdf)
 - [Intelligent Sandbox Installation Guide](/PDF/Intelligent%20Sandbox/trellix_intelligent_sandbox_5.0.x_installation_guide_9-24-2022.pdf)
