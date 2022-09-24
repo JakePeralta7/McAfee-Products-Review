@@ -3,6 +3,6 @@
 
 ## Products
 - [Threat Intelligence Exchange (TIE)](/Products/Threat%20Intelligence%20Exchange.md)
-- [Advanced Threat Defense (ATD)](/Products/Advanced%20Threat%20Defense.md)
+- [Intelligent Sandbox](/Products/Intelligent%20Sandbox.md), used to be called Advanced Threat Defense (ATD)
 - [Endpoint Security Storage Protection](/Products/Endpoint%20Security%20Storage%20Protection.md)
 - [Active Response](/Products/Active%20Response.md)
