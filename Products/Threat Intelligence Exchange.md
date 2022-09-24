@@ -8,4 +8,5 @@ TIE quickly analyzes files and content from several sources in your environment 
 TIE manages multiple devices and systems intelligently, so that security information is shared. These devices and systems include the cloud, BYOD, managed nodes, servers, and network appliances.
 
 ## Resources
-[TIE Product Guide 3.0.x](https://docs.trellix.com/bundle/threat-intelligence-exchange-3.0.x-product-guide/)
+- [TIE Product Guide 3.0.x](/PDF/Threat%20Intelligence%20Exchange/mcafee_threat_intelligence_exchange_3.0.x_product_guide_9-24-2022.pdf)
+- [TIE Installation Guide 3.0.x](/PDF/Threat%20Intelligence%20Exchange/mcafee_threat_intelligence_exchange_3.0.x_installation_guide_9-24-2022.pdf)
